@@ -101,6 +101,10 @@ body {
 }
 
 @media (max-width: 768px) {
+
+    body{
+        background-image: url(../images/bg-mobile.svg);
+    }
     .main {
         width: 100%;
         text-align: center;
